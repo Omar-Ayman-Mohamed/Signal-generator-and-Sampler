@@ -1,7 +1,7 @@
 # Signal-generator-and-Sampler
-generate desired sinsoudal and sample it with desired frequency
 
-We created a GUI using tkinter python that illustrates the Nyquist-Shannon sampling theorem\
+
+We created a GUI app using tkinter python that illustrates the Nyquist-Shannon sampling theorem\
 The application supports the following options:\
 1.Compose a signal by adding sinusoidals with specified magnitude,frequency and phase shift\
 2.Sample the signal with adjustable sample rate\
